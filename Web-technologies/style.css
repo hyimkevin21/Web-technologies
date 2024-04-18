@@ -1,0 +1,47 @@
+html {
+  background: url("img/tech-backaround.webp") no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  background-color: rgb(255, 255, 255, 0.8);
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibi, "Trebuchet MS", sans-serif;
+  letter-spacing: 2px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+.orange {
+  color: #f15c2a;
+}
+
+.yellow {
+  color: #e99b25;
+}
+
+.blue {
+  color: #1774bb;
+}
+
+a {
+  color: navy;
+}
+
+a:hover {
+  font-weight: bold;
+}
